@@ -7,3 +7,12 @@ C:\Users\edisp\source\repos\Clock\Clock\obj\Debug\Clock.Properties.Resources.res
 C:\Users\edisp\source\repos\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
 C:\Users\edisp\source\repos\Clock\Clock\obj\Debug\Clock.exe
 C:\Users\edisp\source\repos\Clock\Clock\obj\Debug\Clock.pdb
+C:\BITBUCKET REPOS\Clock\Clock\bin\Debug\Clock.exe.config
+C:\BITBUCKET REPOS\Clock\Clock\bin\Debug\Clock.exe
+C:\BITBUCKET REPOS\Clock\Clock\bin\Debug\Clock.pdb
+C:\BITBUCKET REPOS\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\BITBUCKET REPOS\Clock\Clock\obj\Debug\Clock.Form1.resources
+C:\BITBUCKET REPOS\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\BITBUCKET REPOS\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\BITBUCKET REPOS\Clock\Clock\obj\Debug\Clock.exe
+C:\BITBUCKET REPOS\Clock\Clock\obj\Debug\Clock.pdb

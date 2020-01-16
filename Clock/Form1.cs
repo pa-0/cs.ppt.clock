@@ -39,6 +39,7 @@ namespace Clock
             clock.TranslateTransform((float)x, (float)y);
             clock.RotateTransform((float)a);
             clock.DrawImage(hourImg, 0, 0, imgRes, imgRes);
+            clock.ResetTransform();
 
             a = 6 * time.Minute + time.Second / 10;
             x = imgRes / 2 * (1 + Math.Sqrt(2) * Math.Cos(Math.PI * (0.75 - a / 180)));
@@ -46,6 +47,7 @@ namespace Clock
             clock.TranslateTransform((float)x, (float)y);
             clock.RotateTransform((float)a);
             clock.DrawImage(minuteImg, 0, 0, imgRes, imgRes);
+            clock.ResetTransform();
 
             a = 6 * time.Second;
             x = imgRes / 2 * (1 + Math.Sqrt(2) * Math.Cos(Math.PI * (0.75 - a / 180)));
@@ -53,6 +55,7 @@ namespace Clock
             clock.TranslateTransform((float)x, (float)y);
             clock.RotateTransform((float)a);
             clock.DrawImage(secondImg, 0, 0, imgRes, imgRes);
+            clock.ResetTransform();
 
             g.DrawImage(dialImg, 0, 0, clockRes, clockRes);
         }
